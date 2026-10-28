@@ -182,7 +182,6 @@ int main () {
     display();
     insertFirst(3);
     
-
     display();
 
     deleteFirst();
