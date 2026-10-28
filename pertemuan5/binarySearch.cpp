@@ -1,4 +1,4 @@
-// Binary Searching
+// Binary Searching.
 #include <iostream>
 #include <algorithm>
 #include <vector>
