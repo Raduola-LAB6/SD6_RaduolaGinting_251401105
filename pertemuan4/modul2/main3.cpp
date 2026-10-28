@@ -156,6 +156,7 @@ int main () {
     insertFirst(3);
     display();
 
+    
     deleteFirst();
     display();
     deleteLast();
