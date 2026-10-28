@@ -48,6 +48,7 @@ int main() {
     push(50);
     push(90);
 
+    
     display();
     pop();
     display();
